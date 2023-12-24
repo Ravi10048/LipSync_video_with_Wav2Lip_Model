@@ -1,7 +1,5 @@
-# LipSync_video_with_Wav2Lip_Model
 
-
- # Easy-Wav2Lip
+# Easy-Wav2Lip
 
 ## Overview
 Aim to Create a LipSync Video with help of Easy-Wav2lip
